@@ -1,0 +1,4 @@
+Modèle,Paramètres,NMSE moyen,NMSE final,t* (pas de temps),Corr. finale,Temps rollout (s)
+MeshGraphNet,"252,674",0.0007,0.0024,31,0.9993,0.49
+EGNN,"32,362",0.0002,0.0007,31,0.9997,0.26
+GMN,"265,155",0.0009,0.0030,31,0.9988,0.52
