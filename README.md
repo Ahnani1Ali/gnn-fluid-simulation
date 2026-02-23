@@ -2,7 +2,7 @@
 
 > Implémentation de réseaux de neurones graphiques (GNN) pour l'approximation des simulations d'écoulements de fluides incompressibles — Dataset **The WELL** de Polymathic AI.
 
-**Auteur :** AHNANI Ali — Master 1 Informatique & Mathématiques Appliquées — 2025/2026
+**Auteur :** AHNANI Ali — Informatique & Mathématiques Appliquées — 2025/2026
 
 ---
 
